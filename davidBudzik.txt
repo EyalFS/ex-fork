@@ -1,2 +1,3 @@
 Hi, Eyal!
 
+updated file format to .txt
